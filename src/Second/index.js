@@ -42,7 +42,7 @@ function Second() {
       return (
         <div className="container-todo">
           <div className='container-cuadro'>
-            <p className='question'>Quien es mi </p>
+            <p className='question'>Esa no es la respuesta bb, intenta denuevo</p>
             <button className='button-click' onClick={() => {setIsLoading(false)}}>Regresar</button>
           </div> 
         </div>
